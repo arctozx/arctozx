@@ -24,5 +24,5 @@
 </div>
 
 <div align="center">  
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimatzu&layout=compact&theme=onedark&hide_border=true&hide=java,javascript,html,css,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
+  <img width="400" src="[![Kier Matthew's Github stats](https://github-readme-stats.vercel.app/api?username=kimatzu)](https://github.com/anuraghazra/github-readme-stats)" />
 </div>
