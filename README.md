@@ -18,10 +18,10 @@
 <a href="https://twitter.com/kimatzu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kimatzu_" height="30" width="40" /></a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=kimatzu&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
    <img width="400" src="" />
-</div>
+</div> -->
 
 <div align="center">  
   <img width="400" src="[![Kier Matthew's Github stats](https://github-readme-stats.vercel.app/api?username=kimatzu)](https://github.com/kimatzu/github-readme-stats)" />
