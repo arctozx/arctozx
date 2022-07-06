@@ -21,5 +21,5 @@
 <div align="center">
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=kimatzu&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimatzu&layout=compact)](https://github.com/kimatzu/github-readme-stats)
 
