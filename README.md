@@ -24,5 +24,5 @@
 </div>
 
 <div align="center">  
-  <img width="400" src="[![Kier Matthew's Github stats](https://github-readme-stats.vercel.app/api?username=kimatzu)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img width="400" src="[![Kier Matthew's Github stats](https://github-readme-stats.vercel.app/api?username=kimatzu)](https://github.com/kimatzu/github-readme-stats)" />
 </div>
